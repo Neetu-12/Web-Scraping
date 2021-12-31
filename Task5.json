@@ -1,0 +1,261 @@
+[
+    {
+        "Name": "Toy Story 4",
+        "Rating": "G",
+        "Genre": [
+            "Fantasy,",
+            "Comedy,",
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Animation"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Josh",
+            "Cooley"
+        ],
+        "Producer": [
+            "Mark",
+            "Nielsen,",
+            "Jonas",
+            "Rivera,",
+            "Galyn",
+            "Susman"
+        ],
+        "Runtime": 100
+    },
+    {
+        "Name": "Spider-Man: Into the Spider-Verse",
+        "Rating": "PG",
+        "Genre": [
+            "Fantasy,",
+            "Comedy,",
+            "Kids",
+            "&",
+            "family,",
+            "Action,",
+            "Adventure,",
+            "Animation"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Bob",
+            "Persichetti,",
+            "Peter",
+            "Ramsey,",
+            "Rodney",
+            "Rothman"
+        ],
+        "Producer": [
+            "Avi",
+            "Arad,",
+            "Amy",
+            "Pascal,",
+            "Phil",
+            "Lord,",
+            "Chris",
+            "Miller,",
+            "Christina",
+            "Steinberg"
+        ],
+        "Runtime": 117
+    },
+    {
+        "Name": "Inside Out",
+        "Rating": "PG",
+        "Genre": [
+            "Comedy,",
+            "Fantasy,",
+            "Animation,",
+            "Kids",
+            "&",
+            "family"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Pete",
+            "Docter"
+        ],
+        "Producer": [
+            "Jonas",
+            "Rivera"
+        ],
+        "Runtime": 95
+    },
+    {
+        "Name": "Coco",
+        "Rating": "PG",
+        "Genre": [
+            "Comedy,",
+            "Music,",
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Animation"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Lee",
+            "Unkrich"
+        ],
+        "Producer": [
+            "Darla",
+            "K.",
+            "Anderson"
+        ],
+        "Runtime": 109
+    },
+    {
+        "Name": "Snow White and the Seven Dwarfs",
+        "Rating": "G",
+        "Genre": [
+            "Fantasy,",
+            "Animation,",
+            "Kids",
+            "&",
+            "family"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "David",
+            "Hand"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 80
+    },
+    {
+        "Name": "Incredibles 2",
+        "Rating": "PG",
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Action,",
+            "Animation"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Brad",
+            "Bird"
+        ],
+        "Producer": [
+            "John",
+            "Walker,",
+            "Nicole",
+            "Paradis",
+            "Grindle"
+        ],
+        "Runtime": 118
+    },
+    {
+        "Name": "Zootopia",
+        "Rating": "PG",
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Animation"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Byron",
+            "Howard,",
+            "Rich",
+            "Moore"
+        ],
+        "Producer": [
+            "Clark",
+            "Spencer"
+        ],
+        "Runtime": 108
+    },
+    {
+        "Name": "Paddington 2",
+        "Rating": "PG",
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Kids",
+            "&",
+            "family"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Paul",
+            "King"
+        ],
+        "Producer": [
+            "David",
+            "Heyman"
+        ],
+        "Runtime": 103
+    },
+    {
+        "Name": "Up",
+        "Rating": "PG",
+        "Genre": [
+            "Comedy,",
+            "Adventure,",
+            "Animation,",
+            "Kids",
+            "&",
+            "family"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Pete",
+            "Docter,",
+            "Bob",
+            "Peterson"
+        ],
+        "Producer": [
+            "Jonas",
+            "Rivera"
+        ],
+        "Runtime": 89
+    },
+    {
+        "Name": "Toy Story 3",
+        "Rating": "G",
+        "Genre": [
+            "Fantasy,",
+            "Comedy,",
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Animation"
+        ],
+        " Language": "English",
+        "Director": [
+            "Director:",
+            "Lee",
+            "Unkrich"
+        ],
+        "Producer": [
+            "Darla",
+            "K.",
+            "Anderson"
+        ],
+        "Runtime": 102
+    }
+]
